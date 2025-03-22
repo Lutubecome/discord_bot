@@ -4,7 +4,7 @@ from datetime import datetime
 import dateparser
 
 # Ersetze 'YOUR_BOT_TOKEN' mit deinem tatsächlichen Bot-Token
-TOKEN = 'MTM1MzA1MTMwMjAwMjY4ODAxMA.Gu7OVi.v4K-uLn5PJSHiN_xvsj-_2i8Kps0zeXo-CIADw'
+TOKEN = 'MTM1MzA3MzcyMzk5Njg5NzI5MQ.GU004s.VYS04P6JHv4obfkQEnufDFyfeFKDtvvThJ1vBU'
 
 intents = discord.Intents.default()
 intents.message_content = True
